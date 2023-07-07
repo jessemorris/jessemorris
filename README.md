@@ -1,7 +1,7 @@
 ### 
 - Hi, i'm Jesse, currently a robotics research student @ACFR-RPG at the University of Sydney
 - 🔭 I’m working on robotic perception systems focusing on visual SLAM in unique environments
-- 📫 You can reach me at _jmor6670@uni.sydney.edu.au_
+- 📫 You can reach me at _jesse.morris@sydney.edu.au_
 
 <!--
 **jessemorris/jessemorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
