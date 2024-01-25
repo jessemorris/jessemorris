@@ -1,6 +1,7 @@
 ### 
-- Hi, i'm Jesse, currently a robotics research student @ACFR-RPG at the University of Sydney
-- 🔭 I’m working on robotic perception systems focusing on visual SLAM in unique environments
+- Hi, i'm Jesse, currently a PHD Candiate in robotics @ACFR-RPG at the University of Sydney supervised by Dr. Viorela Ila
+- 🔭 I’m working on robotic perception systems focusing on visual SLAM in dynamic environments
+- Check out our [research group](https://robotics.sydney.edu.au/our-research/robotic-perception/) which focuses on robotic perception
 - 📫 You can reach me at _jesse.morris@sydney.edu.au_
 
 <!--
